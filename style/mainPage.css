@@ -23,11 +23,28 @@ ul {
 	font-size: 20;
 }
 
+p {
+	
+	color:white;
+	font-size: 20;
+}
+
+
 div.maindiv {
 	
 	border-style:groove;
 	border-color:white;
-	width:75%;
+	width:60%;
 	height: 100%;
 	background-color: #111111;
+}
+
+button.begin {
+		
+	border-style: outset;
+	border-color: white;
+	width: 10%;
+	height: 5%;
+	background-color: powderblue;
+	color: black;
 }
